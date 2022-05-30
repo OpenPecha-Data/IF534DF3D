@@ -1,0 +1,26 @@
+id: IF534DF3D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T04:57:24.705084'
+last_modified: '2022-05-31T04:57:24.705089'
+parser: null
+source_metadata:
+  title: Khenpo Yönten Gyatso Series
+  language: zh
+  description: 'Texts by the learned Khenpo Yönten Gyatso (yon tan rgya mtsho, 19th–20th
+    C.) of Gemang (dge mang):'
+  volume:
+    f1871:
+      title: 'The Prayer of the Ground, Path & Fruition from the Heart-Essence of
+        the Vast Expanse:'
+      base_file: f1871.txt
+      order: 1
+      parent: Dzogchen
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
